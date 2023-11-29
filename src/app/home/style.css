@@ -1,0 +1,12 @@
+.banner-home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: '0 auto';
+    height: 600px;
+    width: 100%;
+    background-color: rgb(249, 219, 121);
+    background-image: url(../../../public/assets/banner-home.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
