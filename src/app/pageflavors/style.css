@@ -1,0 +1,13 @@
+.banner-flavors {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: '0 auto';
+    height: 800px;
+    width: 100%;
+    background-image: url(../../../public/assets/banner-sabores.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

@@ -7,6 +7,7 @@ import React from "react";
 export default function Header () {
     return (
       <Box sx={{
+        position: "fixed",
         width: '100%',
         bgcolor: 'rgb(249, 219, 121)'
       }}>
